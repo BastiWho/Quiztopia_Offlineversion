@@ -13,4 +13,4 @@ window.addEventListener('load', function() {
   });
   
 
-window.setTimeout('location.href="/Pages/start.html"', 3000); 
+window.setTimeout('location.href="/Quiztopia/Pages/start.html"', 3000); 
